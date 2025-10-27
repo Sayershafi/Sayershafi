@@ -14,7 +14,7 @@ I help organizations make sense of data through clear analysis and impactful vis
 ## 🧰 Skills & Tools  
 | Category                | Tools & Technologies                            |
 |-------------------------|------------------------------------------------|
-| Data Analysis & Stats   | R, Python (Pandas,Numpy)               |
+| Data Analysis & Stats   | Python (Pandas,Numpy)               |
 | Database / SQL          | SQL|
 | Data Visualization      | Power BI,Tableau,Looker Studio, Matplotlib, Seaborn|
 | Spreadsheet Tools       | Advanced Excel, Google Sheets                  |   |
