@@ -29,12 +29,9 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
 ---
 
 
-<h1 align="center">Hi, I'm <b>Sayer Bin Shafi</b> 👋</h1>
-<p align="center">
-<b>Data Analyst | Marketing Analyst</b>  
-<br>
+
 Power BI • Tableau • Looker Studio • Excel • SQL • Python
-</p>
+
 
 ---
 
