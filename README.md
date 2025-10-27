@@ -1,3 +1,43 @@
+
+<p align="center">
+  <img src="https://github.com/Sayershafi/Sayershafi/blob/main/About%20Me.png?raw=true" width="260" />
+</p>
+
+<h2 align="center">Hello I Am,</h2>
+
+<h1 align="center"><b>SAYER BIN SHAFI</b></h1>
+
+<p align="center"><b>Marketing & Data Analyst</b></p>
+
+<p align="center" style="max-width: 650px; margin:auto;">
+A passionate Data & Marketing analyst who loves turning data into insights that drive smarter business decisions.
+Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help organizations make sense of data through meaningful analysis and impactful visuals.
+</p>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Sayer%20Shaf.png?raw=true" width="100%" />
 </p>
