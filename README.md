@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Sayer%20Shaf.png?raw=true" width="100%" />
+</p>
 
 <h3 align="center">Hello I Am,</h3>
 
@@ -25,9 +28,6 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Sayer%20Shaf.png?raw=true" width="100%" />
-</p>
 
 <h1 align="center">Hi, I'm <b>Sayer Bin Shafi</b> 👋</h1>
 <p align="center">
