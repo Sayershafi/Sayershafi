@@ -4,10 +4,13 @@
 
 <h3 align="center">Hello I Am,</h3>
 
+<p align="center">
+  <img src="https://github.com/Sayershafi/Sayershafi/blob/main/profile-pic%20(1).png" width="220" style="border-radius:50%;">
+</p>
+
 <h1 align="center">
   <b>SAYER BIN SHAFI</b>
 </h1>
-
 <p align="center">
   <b>Marketing Analyst | Data Analyst</b>
 </p>
