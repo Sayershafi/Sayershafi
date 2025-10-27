@@ -12,9 +12,7 @@ Power BI • Tableau • Looker Studio • Excel • SQL • Python
 ---
 
 ## 🎯 About Me  
-Hello! I’m **Sayer Bin Shafi**, currently pursuing my **Master’s in Business Analytics** at **Midwestern State University, USA**.
-
-I’m passionate about **turning raw data into meaningful insights** that drive **better business decisions**.  
+Hello! I’m **Sayer Bin Shafi**, currently pursuing my **Master’s in Business Analytics** at **Midwestern State University, USA**.I’m passionate about **turning raw data into meaningful insights** that drive **better business decisions**.  
 I work across data collection, cleaning, visualization, and storytelling to answer real business questions clearly & confidently.
 
 ---
