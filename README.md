@@ -1,4 +1,4 @@
-# Aditto Ahosan Kabbo  
+# Sayer Bin Shafi  
 Data Analyst | Marketing Analyst | Excel | Power BI | Tableau | Looker Studio | SQL | | Python |  
 
 ---
