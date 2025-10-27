@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Sayershafi/Sayershafi/blob/main/About%20Me.png?raw=true" width="200" style="border-radius:50%;">
-</p>
 
 <h3 align="center">Hello I Am,</h3>
 
