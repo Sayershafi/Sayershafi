@@ -4,7 +4,7 @@ Data Analyst | Marketing Analyst | Excel | Power BI | Tableau | Looker Studio | 
 ---
 
 ## 🎯 About Me  
-Hello! I’m **Sayer Bin Shafu** from USA, currently pursuing my Masters’s degree in Business Analytics at Midwestern State University.  
+Hello! I’m **Sayer Bin Shafi** from USA, currently pursuing my Masters’s degree in Business Analytics at Midwestern State University.  
 A passionate Data & Marketing analyst who loves turning data into insights that drive smarter business decisions. 
 Skilled in SQL, Python, Tableau, Power BI, Data Studio, and Excel, 
 I help organizations make sense of data through clear analysis and impactful visualization.
