@@ -94,28 +94,29 @@ Feel free to reach out for collaboration or discussions! 😊
 <p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
 
 
-<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+<h2 align="center">🛠️ Skills 🛠️</h2>
 
 <p align="center">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+    <img alt="Power BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+    <img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  </a>
+  <a href="https://lookerstudio.google.com/" target="_blank">
+    <img alt="Looker Studio" src="https://img.shields.io/badge/LOOKER%20STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>
   <a href="#" target="_blank">
     <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  </a>
-  <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
-    <img alt="SPSS" src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  </a>
 </p>
+
 
 <h2 align="center">💻 Toolbox 📈</h2>
 
