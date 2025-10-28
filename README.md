@@ -224,3 +224,35 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </p>
 
 
+----------------------------------
+
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
+  &nbsp;Power BI Dashboard
+</h2>
+
+<hr/>
+
+<div align="center">
+  <!-- Project 1 -->
+  <a href="PROJECT_LINK_1" target="_blank" title="Inventory Management — Power BI">
+    <img src="IMAGE_URL_1"
+         alt="Inventory Management Dashboard"
+         width="45%"
+         style="max-width:48%; border-radius:8px; margin:6px;" />
+  </a>
+
+  <!-- Project 2 -->
+  <a href="PROJECT_LINK_2" target="_blank" title="HR Analytics — Power BI">
+    <img src="IMAGE_URL_2"
+         alt="HR Analytics Dashboard"
+         width="45%"
+         style="max-width:48%; border-radius:8px; margin:6px;" />
+  </a>
+</div>
+
+<p align="center">
+  <sub><b>Inventory Management</b> • Power BI</sub>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <sub><b>HR Analytics</b> • Power BI</sub>
+</p>
