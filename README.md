@@ -92,3 +92,76 @@ Feel free to reach out for collaboration or discussions! 😊
 ---
 
 <p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
+
+
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+
+<p align="center">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  </a>
+  <a href="#" target="_blank">
+    <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  </a>
+  <a href="https://www.ibm.com/products/spss-statistics" target="_blank">
+    <img alt="SPSS" src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+  </a>
+</p>
+
+<h2 align="center">💻 Toolbox 📈</h2>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Language</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Data Visualization</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000" />
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+        <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Data Handling</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Database</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <!-- চাইলে MySQL যোগ করুন -->
+        <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> -->
+      </td>
+    </tr>
+    <tr>
+      <td><b>Tools & Platforms</b></td>
+
