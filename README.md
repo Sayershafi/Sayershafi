@@ -44,7 +44,7 @@ I work across data collection, cleaning, visualization, and storytelling to answ
 
 ## 🧰 Skills & Tools  
 
-<h2 align="center"> Skills & Tools 🛠️</h2>
+<h2 align="center"> Skills & Tools </h2>
 
 <table align="center">
   <tr>
@@ -75,7 +75,7 @@ I work across data collection, cleaning, visualization, and storytelling to answ
   </tr>
 </table>
 
-<h2 align="center"> Tools </h2>
+
 
 <div align="center">
 
