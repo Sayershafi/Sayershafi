@@ -51,7 +51,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   </a>
 </p>
 
-## 🧰 Skills & Tools  
+
 
 <h2 align="center"> Skills & Tools </h2>
 
