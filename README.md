@@ -73,28 +73,6 @@ I work across data collection, cleaning, visualization, and storytelling to answ
       <b>Looker Studio</b>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/fluency/96/pandas.png" width="50" height="50"><br>
-      <b>Pandas</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50" height="50"><br>
-      <b>Matplotlib</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" height="50"><br>
-      <b>Seaborn</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/r-project.png" width="50" height="50"><br>
-      <b>R</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/ibm.png" width="50" height="50"><br>
-      <b>SPSS</b>
-    </td>
-  </tr>
 </table>
 
 
