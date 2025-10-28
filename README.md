@@ -187,6 +187,66 @@ Feel free to reach out for collaboration or discussions! 😊
 </p>
 
 
+--------------------
+
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+
+<div align="center">
+
+<table style="width:90%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="45" height="45"><br>
+      <b>Excel</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/power-bi.png" width="45" height="45"><br>
+      <b>Power BI</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/fluency/96/sql.png" width="45" height="45"><br>
+      <b>SQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/python--v1.png" width="45" height="45"><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/tableau-software.png" width="45" height="45"><br>
+      <b>Tableau</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/google-data-studio.png" width="45" height="45"><br>
+      <b>Looker Studio</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/fluency/96/pandas.png" width="45" height="45"><br>
+      <b>Pandas</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="50" height="40"><br>
+      <b>Matplotlib</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="70" height="40"><br>
+      <b>Seaborn</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/r-project.png" width="45" height="45"><br>
+      <b>R</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.icons8.com/color/96/ibm.png" width="45" height="45"><br>
+      <b>SPSS</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
 
 
  
