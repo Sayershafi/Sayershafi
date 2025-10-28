@@ -94,7 +94,7 @@ Feel free to reach out for collaboration or discussions! 😊
 <p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
 
 
-<h2 align="center">🛠️ Skills 🛠️</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
@@ -118,7 +118,6 @@ Feel free to reach out for collaboration or discussions! 😊
 </p>
 
 
-<h2 align="center">💻 Toolbox 📈</h2>
 
 <table align="center">
   <thead>
@@ -159,36 +158,12 @@ Feel free to reach out for collaboration or discussions! 😊
       <td>
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <!-- চাইলে MySQL যোগ করুন -->
         <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> -->
       </td>
     </tr>
     <tr>
-      <td><b>Tools & Platforms</b></td>
+ 
 
 
-<h2 align="center" style="font-family:'Segoe UI', sans-serif; font-weight:700; letter-spacing:2px; color:#6A5ACD;">
-💼 <span style="color:#6A5ACD;">LANGUAGES & TOOLS</span> 💼
-</h2>
 
-<p align="center" style="font-family:'Segoe UI', sans-serif; font-size:17px; font-weight:500;">
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
-    <img alt="Excel" src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img alt="Power BI" src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank">
-    <img alt="Tableau" src="https://img.shields.io/badge/TABLEAU-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
-  <a href="https://lookerstudio.google.com/" target="_blank">
-    <img alt="Looker Studio" src="https://img.shields.io/badge/LOOKER%20STUDIO-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  </a>
-</p>
 
