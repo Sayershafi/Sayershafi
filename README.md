@@ -194,27 +194,24 @@ Feel free to reach out for collaboration or discussions! 😊
 
 
 --------------------
-
 <h2 align="center" style="font-family:'Segoe UI',sans-serif; color:#6A5ACD;">
 🎯 About Me
 </h2>
 
-<p align="center" style="font-family:'Segoe UI',sans-serif; font-size:16px; max-width:750px; margin:auto; line-height:1.6;">
+<p style="text-align: justify; font-family:'Segoe UI',sans-serif; font-size:16px; max-width:800px; margin:auto; line-height:1.6;">
 Hello! 👋 I’m <b style="color:#6A5ACD;">Sayer Bin Shafi</b>, currently pursuing my <b>Master’s in Business Analytics</b> at <b>Midwestern State University, USA</b>.  
 I’m deeply passionate about <b>turning raw data into meaningful insights</b> that drive <b>better business decisions</b>.
 </p>
 
-<p align="center" style="font-family:'Segoe UI',sans-serif; font-size:16px; max-width:750px; margin:auto; line-height:1.6;">
+<p style="text-align: justify; font-family:'Segoe UI',sans-serif; font-size:16px; max-width:800px; margin:auto; line-height:1.6;">
 I work across <b>data collection</b>, <b>cleaning</b>, <b>visualization</b>, and <b>storytelling</b> to answer real business questions clearly and confidently.  
-I enjoy blending analytical thinking with creativity to build dashboards, track performance, and reveal trends that guide growth.
+I enjoy blending analytical thinking with creativity to build dashboards, track performance, and reveal trends that guide business growth.
 </p>
 
 <p align="center">
-  <a href="https://sayerbin.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Portfolio-6A5ACD?style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/sayershafi/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 Connect%20on%20LinkedIn-8A2BE2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💼 Connect%20on%20LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
