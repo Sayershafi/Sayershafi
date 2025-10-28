@@ -44,13 +44,37 @@ I work across data collection, cleaning, visualization, and storytelling to answ
 
 ## 🧰 Skills & Tools  
 
-| Category | Tools & Technologies |
-|--------|----------------------|
-| **Data Analysis** | Python (Pandas, NumPy) |
-| **Database / Querying** | SQL (Joins, CTE, Aggregations) |
-| **Visualization** | Power BI, Tableau, Looker Studio, Matplotlib, Seaborn |
-| **Spreadsheet** | Advanced Excel, Google Sheets |
-| **Reporting & Insights** | Business Dashboarding & Data Storytelling |
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png" width="50" height="50"><br>
+      <b>Excel</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/power-bi.png" width="50" height="50"><br>
+      <b>Power BI</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/fluency/96/000000/sql.png" width="50" height="50"><br>
+      <b>SQL</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="50" height="50"><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/external-soft-fill-juicy-fish/100/000000/external-tableau-graphs-and-charts-soft-fill-soft-fill-juicy-fish.png" width="50" height="50"><br>
+      <b>Tableau</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://img.icons8.com/color/96/000000/google-data-studio.png" width="50" height="50"><br>
+      <b>Looker Studio</b>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
