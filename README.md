@@ -116,26 +116,6 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
 
 ---
 
-## 🔍 What I’m Working On  
-- Building stronger skills in **SQL performance tuning & ETL workflows**  
-- Creating dashboards that explain insights **clearly & visually**  
-- Preparing for **full-time Data Analyst & Business Analyst roles**  
-
----
-
-## 📂 Featured Projects  
-
-| Project | Description |
-|--------|-------------|
-| **Dimension Reduction (PCA/t-SNE)** | Applied reduction techniques to simplify high-dimensional data while preserving structure |
-| **HR Analytics Dashboard (Power BI)** | Visualized employee performance & attrition insights |
-| **Inventory Management Dashboard** | End-to-end Power BI dashboard for SKU, demand & stock analytics |
-| **Foodpanda Sales Performance (Excel)** | Sales cleaning, pivot reporting & trend analysis |
-
-➡️ *More details on my GitHub repositories.*
-
----
-
 ## 📬 Connect With Me  
 
 | Platform | Link |
@@ -148,8 +128,7 @@ Feel free to reach out for collaboration or discussions! 😊
 
 ---
 
-## 💡 Fun Fact  
-**Good data analysis isn’t just numbers — it’s *storytelling with logic*.**
+
 
 ---
 
