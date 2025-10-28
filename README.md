@@ -75,25 +75,29 @@ I work across data collection, cleaning, visualization, and storytelling to answ
   </tr>
 </table>
 
-<table align="center">
+<h2 align="center"> Tools </h2>
+
+<div align="center">
+
+<table style="width:90%; border-collapse:collapse; table-layout:fixed; font-family:'Segoe UI',sans-serif;">
   <thead>
     <tr>
-      <th>Category</th>
-      <th>Technologies</th>
+      <th style="width:25%; text-align:left; padding:6px;">Category</th>
+      <th style="width:75%; text-align:left; padding:6px;">Technologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b>Language</b></td>
-      <td>
+      <td style="padding:6px;"><b>Language</b></td>
+      <td style="padding:6px;">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td><b>Data Visualization</b></td>
-      <td>
+      <td style="padding:6px;"><b>Data Visualization</b></td>
+      <td style="padding:6px;">
         <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
         <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000" />
@@ -102,23 +106,25 @@ I work across data collection, cleaning, visualization, and storytelling to answ
       </td>
     </tr>
     <tr>
-      <td><b>Data Handling</b></td>
-      <td>
+      <td style="padding:6px;"><b>Data Handling</b></td>
+      <td style="padding:6px;">
         <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td><b>Database</b></td>
-      <td>
+      <td style="padding:6px;"><b>Database</b></td>
+      <td style="padding:6px;">
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <!-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> -->
       </td>
     </tr>
-    <tr>
-    </table>
+  </tbody>
+</table>
+
+</div>
+
 
 
 ---
@@ -188,52 +194,3 @@ Feel free to reach out for collaboration or discussions! 😊
 
 
 --------------------
-<h2 align="center">💼 Toolbox 💼</h2>
-
-<div align="center">
-
-<table style="width:90%; border-collapse:collapse; table-layout:fixed; font-family:'Segoe UI',sans-serif;">
-  <thead>
-    <tr>
-      <th style="width:25%; text-align:left; padding:6px;">Category</th>
-      <th style="width:75%; text-align:left; padding:6px;">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:6px;"><b>Language</b></td>
-      <td style="padding:6px;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:6px;"><b>Data Visualization</b></td>
-      <td style="padding:6px;">
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
-        <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-        <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:6px;"><b>Data Handling</b></td>
-      <td style="padding:6px;">
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:6px;"><b>Database</b></td>
-      <td style="padding:6px;">
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-</div>
