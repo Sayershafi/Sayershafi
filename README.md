@@ -29,52 +29,6 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
   </a>
 </p>
 
-----------------------------
-
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
-  &nbsp; Power BI Dashboards
-</h2>
-
----
-
-<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <tr>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
-           alt="Netflix Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Netflix Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
-           alt="Sales Summary Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Sales Summary Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
-           alt="Sales Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Sales Dashboard</b>
-    </td>
-  </tr>
-     <tr>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
-           alt="Hospital Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Hospital Dashboard</b>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
 -------------------------------
 <h2 align="center" style="font-family:'Segoe UI',sans-serif; color:#6A5ACD;">
  About Me
@@ -96,7 +50,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   </a>
 </p>
 
-----------------------
+---------------------------------------------
 
 <h2 align="center"> Skills & Tools </h2>
 
@@ -214,6 +168,43 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 ---------------------------------- 
 
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
+  &nbsp; Power BI Dashboards
+</h2>
+
+---
+
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
+           alt="Netflix Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Netflix Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
+           alt="Sales Summary Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Sales Summary Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
+           alt="Sales Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Sales Dashboard</b>
+    </td>
+  </tr>
+     <tr>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
+           alt="Hospital Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Hospital Dashboard</b>
+    </td>
+  </tr>
+</table>
 
 
 ---------------------------------- 
