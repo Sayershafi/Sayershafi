@@ -165,33 +165,55 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 ---------------------------------- 
 <h2 align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
-  &nbsp;Power BI Project
+  <img src="https://img.icons8.com/color/48/certificate.png" width="26" />
+  &nbsp;🎓 Professional Training
 </h2>
 
-<p align="center">
-  <a href="#" target="_blank" title="Netflix Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Sales Summary Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Sales Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true" width="280" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <a href="#" target="_blank" title="Hospital Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Car Sales Analysis">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/3.Car.png" width="280" />
-  </a>
-</p>
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td align="center" style="width:33%; padding:8px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true"
+           alt="Tableau Ultimate Course (Udemy)"
+           style="width:95%; max-width:320px; border-radius:6px;" />
+      <br><b>Tableau Ultimate Course (Udemy)</b>
+    </td>
+    <td align="center" style="width:33%; padding:8px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true"
+           alt="Python ML – Creative IT"
+           style="width:95%; max-width:320px; border-radius:6px;" />
+      <br><b>Python ML – Creative IT</b>
+    </td>
+    <td align="center" style="width:33%; padding:8px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true"
+           alt="Excel Certificate"
+           style="width:95%; max-width:320px; border-radius:6px;" />
+      <br><b>Excel Certificate</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" style="width:33%; padding:8px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true"
+           alt="Grad Bunker Certificate"
+           style="width:95%; max-width:320px; border-radius:6px;" />
+      <br><b>Grad Bunker Certificate</b>
+    </td>
+    <td align="center" style="width:33%; padding:8px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Data360.png?raw=true"
+           alt="Data360 Certificate"
+           style="width:95%; max-width:320px; border-radius:6px;" />
+      <br><b>Data360 Certificate</b>
+    </td>
+    <td align="center" style="width:33%; padding:8px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Akademy.png?raw=true"
+           alt="Akademy Certificate"
+           style="width:95%; max-width:320px; border-radius:6px;" />
+      <br><b>Akademy Certificate</b>
+    </td>
+  </tr>
+</table>
 
 
 ---------------------------------- 
