@@ -29,6 +29,43 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
   </a>
 </p>
 
+----------------------------
+
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
+  &nbsp;Power BI Dashboard
+</h2>
+
+---
+
+<p align="center">
+  <a href="#" target="_blank" title="Netflix Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" title="Sales Summary Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" title="Sales Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true" width="280" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#" target="_blank" title="Hospital Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" title="HR Analytics Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true" width="280" />
+  </a>
+</p>
+
+
+
+
+
 
 
 -------------------------------
