@@ -190,3 +190,61 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>HR Analytics</b> • Power BI</sub>
 </p>
+
+--------------------
+
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
+  &nbsp;Power BI Dashboard
+</h2>
+
+<hr/>
+
+<div align="center">
+
+  <!-- Project 1 -->
+  <a href="#" target="_blank" title="Netflix Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
+         alt="Netflix Dashboard"
+         width="45%"
+         style="max-width:48%; border-radius:8px; margin:6px;" />
+  </a>
+
+  <!-- Project 2 -->
+  <a href="#" target="_blank" title="Sales Summary Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
+         alt="Sales Summary Dashboard"
+         width="45%"
+         style="max-width:48%; border-radius:8px; margin:6px;" />
+  </a>
+
+  <!-- Project 3 -->
+  <a href="#" target="_blank" title="Sales Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
+         alt="Sales Dashboard"
+         width="45%"
+         style="max-width:48%; border-radius:8px; margin:6px;" />
+  </a>
+
+  <!-- Project 4 -->
+  <a href="#" target="_blank" title="Hospital Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
+         alt="Hospital Dashboard"
+         width="45%"
+         style="max-width:48%; border-radius:8px; margin:6px;" />
+  </a>
+
+  <!-- Project 5 -->
+  <a href="#" target="_blank" title="HR Analytics Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
+         alt="HR Analytics Dashboard"
+         width="45%"
+         style="max-width:48%; border-radius:8px; margin:6px;" />
+  </a>
+
+</div>
+
+<p align="center">
+  <sub><b>Netflix</b> • <b>Sales Summary</b> • <b>Sales</b> • <b>Hospital</b> • <b>HR Analytics</b></sub>
+</p>
+
