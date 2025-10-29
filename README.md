@@ -33,34 +33,54 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
 
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
-  &nbsp;Power BI Dashboard
+  &nbsp;📊 Power BI Dashboards
 </h2>
 
 ---
 
-<p align="center">
-  <a href="#" target="_blank" title="Netflix Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Sales Summary Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Sales Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true" width="280" />
-  </a>
-</p>
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
+           alt="Netflix Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Netflix Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
+           alt="Sales Summary Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Sales Summary Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
+           alt="Sales Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Sales Dashboard</b>
+    </td>
+  </tr>
 
-<p align="center">
-  <a href="#" target="_blank" title="Hospital Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="HR Analytics Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true" width="280" />
-  </a>
-</p>
+  <tr>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
+           alt="Hospital Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Hospital Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
+           alt="HR Analytics Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>HR Analytics Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
+           alt="Airbnb Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Airbnb Dashboard</b>
+    </td>
+  </tr>
+</table>
 
 
 
