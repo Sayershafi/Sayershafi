@@ -245,18 +245,12 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   </tr>
 
   <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Data360.png?raw=true" width="300" /><br>
-      <b>Data360 Analytics Training</b>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true" width="300" /><br>
       <b>Grad Bunker Certificate</b>
     </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Akademy.png?raw=true" width="300" /><br>
-      <b>Akademy Business Analytics</b>
-    </td>
+    
   </tr>
 </table>
 
