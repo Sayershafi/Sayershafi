@@ -113,28 +113,6 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
 </div>
 
 
-
----
-
-## 📬 Connect With Me  
-
-| Platform | Link |
-|--------|------|
-| **LinkedIn** | https://www.linkedin.com/in/sayershafi/ |
-| **Portfolio** | https://sayerbin.com/ |
-| **Email** | sayershafi@gmail.com |
-
-Feel free to reach out for collaboration or discussions! 😊
-
----
-
-
-
----
-
-
-
-
 --------------------
 <h2 align="center" style="font-family:'Segoe UI',sans-serif; color:#6A5ACD;">
  About Me
