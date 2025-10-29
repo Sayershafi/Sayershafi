@@ -167,7 +167,6 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </table>
 
 ---------------------------------- 
-
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="26" />
   &nbsp;📊 Tableau Projects
@@ -177,6 +176,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 <table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
+    <!-- 1) Airbnb -->
     <td align="center" style="width:33%; padding:10px; vertical-align:top;">
       <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
            alt="Airbnb Dashboard"
@@ -184,6 +184,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
       <br><b>Airbnb Detailed Analysis</b>
     </td>
 
+    <!-- 2) HR Analytics -->
     <td align="center" style="width:33%; padding:10px; vertical-align:top;">
       <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
            alt="HR Analytics Dashboard"
@@ -191,6 +192,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
       <br><b>HR Analytics Dashboard</b>
     </td>
 
+    <!-- 3) British Airways -->
     <td align="center" style="width:33%; padding:10px; vertical-align:top;">
       <img src="https://github.com/Sayershafi/Sayershafi/blob/main/8.British%20Airways.png?raw=true"
            alt="British Airways Dashboard"
@@ -199,6 +201,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
     </td>
   </tr>
 </table>
+
 
 --------------
 <p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
