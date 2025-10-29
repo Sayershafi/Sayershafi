@@ -225,54 +225,45 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   &nbsp;Power BI Projects
 </h2>
 
-<table align="center" style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:18px;">
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:15px;">
   <tr>
     <!-- Netflix Dashboard -->
-    <td style="width:33%;">
-      <div style="border:1px solid #e5e7eb; border-radius:10px; padding:14px; box-shadow:0 1px 3px rgba(0,0,0,.06);">
-        <a href="#" title="Netflix Analytics Dashboard" target="_blank">
+    <td align="center" style="width:33%;">
+      <div style="border:1px solid #d1d5db; border-radius:10px; padding:10px;">
+        <a href="#" target="_blank" title="Netflix Analytics Dashboard">
           <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
                alt="Netflix Dashboard"
-               style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;" />
+               style="width:100%; border-radius:10px;" />
         </a>
-        <div style="margin-top:10px; font-weight:600; font-size:18px;">
-          Netflix Analytics Dashboard
-        </div>
+        <p style="font-weight:bold; font-size:16px; margin-top:8px;">Netflix Analytics Dashboard</p>
       </div>
     </td>
 
     <!-- Sales Summary Dashboard -->
-    <td style="width:33%;">
-      <div style="border:1px solid #e5e7eb; border-radius:10px; padding:14px; box-shadow:0 1px 3px rgba(0,0,0,.06);">
-        <a href="#" title="Sales Summary Dashboard" target="_blank">
+    <td align="center" style="width:33%;">
+      <div style="border:1px solid #d1d5db; border-radius:10px; padding:10px;">
+        <a href="#" target="_blank" title="Sales Summary Dashboard">
           <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
                alt="Sales Summary Dashboard"
-               style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;" />
+               style="width:100%; border-radius:10px;" />
         </a>
-        <div style="margin-top:10px; font-weight:600; font-size:18px;">
-          Sales Summary Dashboard
-        </div>
+        <p style="font-weight:bold; font-size:16px; margin-top:8px;">Sales Summary Dashboard</p>
       </div>
     </td>
 
     <!-- Hospital Dashboard -->
-    <td style="width:33%;">
-      <div style="border:1px solid #e5e7eb; border-radius:10px; padding:14px; box-shadow:0 1px 3px rgba(0,0,0,.06);">
-        <a href="#" title="Hospital Emergency Dashboard" target="_blank">
+    <td align="center" style="width:33%;">
+      <div style="border:1px solid #d1d5db; border-radius:10px; padding:10px;">
+        <a href="#" target="_blank" title="Hospital Emergency Dashboard">
           <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
                alt="Hospital Dashboard"
-               style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;" />
+               style="width:100%; border-radius:10px;" />
         </a>
-        <div style="margin-top:10px; font-weight:600; font-size:18px;">
-          Hospital Emergency Dashboard
-        </div>
+        <p style="font-weight:bold; font-size:16px; margin-top:8px;">Hospital Emergency Dashboard</p>
       </div>
     </td>
   </tr>
 </table>
-
-
-
 
 --------------
 <p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
