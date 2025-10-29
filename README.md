@@ -161,10 +161,8 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 ---------------------------------- Power BI
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
-  &nbsp;Power BI Dashboard
+  &nbsp;Power BI Project
 </h2>
-
----
 
 <p align="center">
   <a href="#" target="_blank" title="Netflix Dashboard">
@@ -194,7 +192,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 ---------------------------------- Tableau
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="26" />
-  &nbsp;Tableau Dashboard
+  &nbsp;Tableau Project
 </h2>
 
 ---
@@ -205,7 +203,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   </a>
   &nbsp;&nbsp;
   <a href="#" target="_blank" title="HR Analytics Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true" width="280" />
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.%20HR.png" width="280" />
   </a>
   &nbsp;&nbsp;
   <a href="#" target="_blank" title="British Airways Dashboard">
