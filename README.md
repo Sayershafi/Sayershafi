@@ -137,6 +137,11 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 
 ---------------------------------
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/certificate.png" width="28" />
+  &nbsp;🎓 Professional Training
+</h2>
+
 
 <table align="center">
   <tr>
@@ -195,10 +200,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 <p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
 
 --------------
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/certificate.png" width="28" />
-  &nbsp;🎓 Professional Training
-</h2>
+
 
 ---
 
