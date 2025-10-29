@@ -219,7 +219,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   </a>
   &nbsp;&nbsp;
   <a href="#" target="_blank" title="HR Analytics Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true" width="280" />
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.%20HR.png" width="280" />
   </a>
   &nbsp;&nbsp;
   <a href="#" target="_blank" title="British Airways Dashboard">
