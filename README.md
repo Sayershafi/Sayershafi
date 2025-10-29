@@ -212,7 +212,6 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </h2>
 
 ---
-
 <p align="center">
   <a href="#" target="_blank" title="Airbnb Dashboard">
     <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true" width="280" />
