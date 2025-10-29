@@ -202,49 +202,65 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 <div align="center">
 
-  <!-- Project 1 -->
-  <a href="#" target="_blank" title="Netflix Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
-         alt="Netflix Dashboard"
-         width="45%"
-         style="max-width:48%; border-radius:8px; margin:6px;" />
-  </a>
+  <table style="width:95%; border-collapse:collapse; table-layout:fixed;">
+    <tr>
+      <td align="center" width="33%">
+        <a href="#" target="_blank" title="Netflix Dashboard">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
+               alt="Netflix Dashboard"
+               width="95%"
+               style="border-radius:8px; margin:6px;" />
+        </a>
+        <sub><b>Netflix Dashboard</b></sub>
+      </td>
 
-  <!-- Project 2 -->
-  <a href="#" target="_blank" title="Sales Summary Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
-         alt="Sales Summary Dashboard"
-         width="45%"
-         style="max-width:48%; border-radius:8px; margin:6px;" />
-  </a>
+      <td align="center" width="33%">
+        <a href="#" target="_blank" title="Sales Summary Dashboard">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
+               alt="Sales Summary Dashboard"
+               width="95%"
+               style="border-radius:8px; margin:6px;" />
+        </a>
+        <sub><b>Sales Summary Dashboard</b></sub>
+      </td>
 
-  <!-- Project 3 -->
-  <a href="#" target="_blank" title="Sales Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
-         alt="Sales Dashboard"
-         width="45%"
-         style="max-width:48%; border-radius:8px; margin:6px;" />
-  </a>
+      <td align="center" width="33%">
+        <a href="#" target="_blank" title="Sales Dashboard">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
+               alt="Sales Dashboard"
+               width="95%"
+               style="border-radius:8px; margin:6px;" />
+        </a>
+        <sub><b>Sales Dashboard</b></sub>
+      </td>
+    </tr>
 
-  <!-- Project 4 -->
-  <a href="#" target="_blank" title="Hospital Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
-         alt="Hospital Dashboard"
-         width="45%"
-         style="max-width:48%; border-radius:8px; margin:6px;" />
-  </a>
+    <tr>
+      <td align="center" width="33%">
+        <a href="#" target="_blank" title="Hospital Dashboard">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
+               alt="Hospital Dashboard"
+               width="95%"
+               style="border-radius:8px; margin:6px;" />
+        </a>
+        <sub><b>Hospital Dashboard</b></sub>
+      </td>
 
-  <!-- Project 5 -->
-  <a href="#" target="_blank" title="HR Analytics Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
-         alt="HR Analytics Dashboard"
-         width="45%"
-         style="max-width:48%; border-radius:8px; margin:6px;" />
-  </a>
+      <td align="center" width="33%">
+        <a href="#" target="_blank" title="HR Analytics Dashboard">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
+               alt="HR Analytics Dashboard"
+               width="95%"
+               style="border-radius:8px; margin:6px;" />
+        </a>
+        <sub><b>HR Analytics Dashboard</b></sub>
+      </td>
+
+      <td align="center" width="33%">
+        <!-- Optional: empty cell or future project -->
+      </td>
+    </tr>
+  </table>
 
 </div>
-
-<p align="center">
-  <sub><b>Netflix</b> • <b>Sales Summary</b> • <b>Sales</b> • <b>Hospital</b> • <b>HR Analytics</b></sub>
-</p>
 
