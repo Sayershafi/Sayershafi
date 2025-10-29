@@ -139,9 +139,8 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 ---------------------------------
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/certificate.png" width="28" />
-  &nbsp;🎓 Professional Training
+   Professional Training
 </h2>
-
 
 <table align="center">
   <tr>
