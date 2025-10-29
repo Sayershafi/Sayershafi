@@ -178,7 +178,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   <tr>
     <!-- 1) Airbnb -->
     <td align="center" style="width:33%; padding:10px; vertical-align:top;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png"
            alt="Airbnb Dashboard"
            style="width:95%; max-width:350px; border-radius:8px;" />
       <br><b>Airbnb Detailed Analysis</b>
@@ -186,7 +186,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
     <!-- 2) HR Analytics -->
     <td align="center" style="width:33%; padding:10px; vertical-align:top;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.%20HR.png"
            alt="HR Analytics Dashboard"
            style="width:95%; max-width:350px; border-radius:8px;" />
       <br><b>HR Analytics Dashboard</b>
@@ -194,7 +194,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
     <!-- 3) British Airways -->
     <td align="center" style="width:33%; padding:10px; vertical-align:top;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/8.British%20Airways.png?raw=true"
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/8.British%20Airways.png"
            alt="British Airways Dashboard"
            style="width:95%; max-width:350px; border-radius:8px;" />
       <br><b>British Airways Dashboard</b>
