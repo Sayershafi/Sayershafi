@@ -222,61 +222,55 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
-  &nbsp;📊 Power BI Dashboards
+  &nbsp;Power BI Projects
 </h2>
 
----
-
-<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:18px;">
   <tr>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
-           alt="Netflix Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Netflix Dashboard</b>
+    <!-- Netflix Dashboard -->
+    <td style="width:33%;">
+      <div style="border:1px solid #e5e7eb; border-radius:10px; padding:14px; box-shadow:0 1px 3px rgba(0,0,0,.06);">
+        <a href="#" title="Netflix Analytics Dashboard" target="_blank">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
+               alt="Netflix Dashboard"
+               style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;" />
+        </a>
+        <div style="margin-top:10px; font-weight:600; font-size:18px;">
+          Netflix Analytics Dashboard
+        </div>
+      </div>
     </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
-           alt="Sales Summary Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Sales Summary Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
-           alt="Sales Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Sales Dashboard</b>
-    </td>
-  </tr>
 
-  <!-- Hospital Dashboard center align -->
-  <tr>
-    <td style="width:33%;"></td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
-           alt="Hospital Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Hospital Dashboard</b>
+    <!-- Sales Summary Dashboard -->
+    <td style="width:33%;">
+      <div style="border:1px solid #e5e7eb; border-radius:10px; padding:14px; box-shadow:0 1px 3px rgba(0,0,0,.06);">
+        <a href="#" title="Sales Summary Dashboard" target="_blank">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
+               alt="Sales Summary Dashboard"
+               style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;" />
+        </a>
+        <div style="margin-top:10px; font-weight:600; font-size:18px;">
+          Sales Summary Dashboard
+        </div>
+      </div>
     </td>
-    <td style="width:33%;"></td>
-  </tr>
 
-  <tr>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
-           alt="HR Analytics Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>HR Analytics Dashboard</b>
+    <!-- Hospital Dashboard -->
+    <td style="width:33%;">
+      <div style="border:1px solid #e5e7eb; border-radius:10px; padding:14px; box-shadow:0 1px 3px rgba(0,0,0,.06);">
+        <a href="#" title="Hospital Emergency Dashboard" target="_blank">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
+               alt="Hospital Dashboard"
+               style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;" />
+        </a>
+        <div style="margin-top:10px; font-weight:600; font-size:18px;">
+          Hospital Emergency Dashboard
+        </div>
+      </div>
     </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
-           alt="Airbnb Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Airbnb Dashboard</b>
-    </td>
-    <td style="width:33%;"></td>
   </tr>
 </table>
+
 
 
 
