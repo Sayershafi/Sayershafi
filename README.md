@@ -235,6 +235,13 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 ---
 
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/certificate.png" width="28" />
+  &nbsp;💼 Professional Training
+</h2>
+
+---
+
 <p align="center">
   <a href="#" target="_blank" title="Tableau Ultimate Course (Udemy)">
     <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true" width="300" />
@@ -262,5 +269,3 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
     <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Akademy.png?raw=true" width="300" />
   </a>
 </p>
-
-
