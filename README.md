@@ -132,7 +132,6 @@ Feel free to reach out for collaboration or discussions! 😊
 
 ---
 
-<p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
 
 
 
@@ -159,7 +158,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 ---------------------------------
 <h2 align="center">
-  🎓 Certificates
+  💼 Professional Training
 </h2>
 
 ---
@@ -239,4 +238,5 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 
 
+<p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
 
