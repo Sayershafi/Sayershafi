@@ -33,7 +33,7 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
 
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
-  &nbsp;📊 Power BI Dashboards
+  &nbsp; Power BI Dashboards
 </h2>
 
 ---
@@ -66,18 +66,6 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
            alt="Hospital Dashboard"
            style="width:95%; max-width:350px; border-radius:8px;" />
       <br><b>Hospital Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
-           alt="HR Analytics Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>HR Analytics Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
-           alt="Airbnb Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Airbnb Dashboard</b>
     </td>
   </tr>
 </table>
