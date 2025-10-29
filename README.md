@@ -228,30 +228,35 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 ---
 
-<p align="center">
-  <a href="#" target="_blank" title="Tableau Ultimate Course (Udemy)">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true" width="300" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Python Machine Learning - Creative IT Institute">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true" width="300" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Data360 Certificate of Achievement">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true" width="300" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true" width="300" /><br>
+      <b>Tableau Ultimate Course (Udemy)</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true" width="300" /><br>
+      <b>Python Machine Learning - Creative IT</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true" width="300" /><br>
+      <b>Excel Advanced Certificate</b>
+    </td>
+  </tr>
 
-<p align="center">
-  <a href="#" target="_blank" title="Akademy Certificate of Completion">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true" width="300" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Creative IT Institute Certificate">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Creative%20IT%20Institute%20Certificate.png?raw=true" width="300" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Additional Certificate">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Akademy.png?raw=true" width="300" />
-  </a>
-</p>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Data360.png?raw=true" width="300" /><br>
+      <b>Data360 Analytics Training</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true" width="300" /><br>
+      <b>Grad Bunker Certificate</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Akademy.png?raw=true" width="300" /><br>
+      <b>Akademy Business Analytics</b>
+    </td>
+  </tr>
+</table>
+
