@@ -157,6 +157,32 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   </a>
 </p>
 
+---------------------------------
+<h2 align="center">
+  🎓 Certificates
+</h2>
+
+---
+
+<p align="center">
+  <a href="#" target="_blank" title="Tableau Certificate">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" title="Python Certificate">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" title="Excel Certificate">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true" width="280" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#" target="_blank" title="Grad Bunker Certificate">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true" width="280" />
+  </a>
+</p>
 
 ---------------------------------- 
 <h2 align="center">
