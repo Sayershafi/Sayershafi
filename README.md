@@ -192,7 +192,6 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </p>
 
 --------------------
-
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
   &nbsp;Power BI Dashboard
@@ -200,73 +199,29 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 ---
 
-<div align="center">
+<p align="center">
+  <a href="#" target="_blank" title="Netflix Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" title="Sales Summary Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" title="Sales Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true" width="280" />
+  </a>
+</p>
 
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <td align="center" style="padding:10px;">
-      <a href="#" target="_blank" title="Netflix Dashboard">
-        <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
-             alt="Netflix Dashboard"
-             width="300"
-             style="border-radius:10px; box-shadow:0px 2px 6px rgba(0,0,0,0.15);" />
-      </a>
-      <br>
-      <b>Netflix Dashboard</b>
-    </td>
+<p align="center">
+  <a href="#" target="_blank" title="Hospital Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true" width="280" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="#" target="_blank" title="HR Analytics Dashboard">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true" width="280" />
+  </a>
+</p>
 
-    <td align="center" style="padding:10px;">
-      <a href="#" target="_blank" title="Sales Summary Dashboard">
-        <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
-             alt="Sales Summary Dashboard"
-             width="300"
-             style="border-radius:10px; box-shadow:0px 2px 6px rgba(0,0,0,0.15);" />
-      </a>
-      <br>
-      <b>Sales Summary Dashboard</b>
-    </td>
-
-    <td align="center" style="padding:10px;">
-      <a href="#" target="_blank" title="Sales Dashboard">
-        <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
-             alt="Sales Dashboard"
-             width="300"
-             style="border-radius:10px; box-shadow:0px 2px 6px rgba(0,0,0,0.15);" />
-      </a>
-      <br>
-      <b>Sales Dashboard</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="padding:10px;">
-      <a href="#" target="_blank" title="Hospital Dashboard">
-        <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
-             alt="Hospital Dashboard"
-             width="300"
-             style="border-radius:10px; box-shadow:0px 2px 6px rgba(0,0,0,0.15);" />
-      </a>
-      <br>
-      <b>Hospital Dashboard</b>
-    </td>
-
-    <td align="center" style="padding:10px;">
-      <a href="#" target="_blank" title="HR Analytics Dashboard">
-        <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
-             alt="HR Analytics Dashboard"
-             width="300"
-             style="border-radius:10px; box-shadow:0px 2px 6px rgba(0,0,0,0.15);" />
-      </a>
-      <br>
-      <b>HR Analytics Dashboard</b>
-    </td>
-
-    <td align="center" style="padding:10px;">
-      <!-- Extra column (optional future project) -->
-    </td>
-  </tr>
-</table>
-
-</div>
 
 
