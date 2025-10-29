@@ -176,29 +176,85 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 <table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <!-- 1️⃣ Airbnb Project -->
-    <td align="center" style="width:33%; padding:10px; vertical-align:top;">
+    <td align="center" style="width:33%; padding:10px;">
       <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
            alt="Airbnb Dashboard"
            style="width:95%; max-width:350px; border-radius:8px;" />
       <br><b>Airbnb Detailed Analysis</b>
     </td>
 
-    <!-- 2️⃣ HR Analytics Project -->
-    <td align="center" style="width:33%; padding:10px; vertical-align:top;">
+    <td align="center" style="width:33%; padding:10px;">
       <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
            alt="HR Analytics Dashboard"
            style="width:95%; max-width:350px; border-radius:8px;" />
       <br><b>HR Analytics Dashboard</b>
     </td>
 
-    <!-- 3️⃣ British Airways Project -->
-    <td align="center" style="width:33%; padding:10px; vertical-align:top;">
+    <td align="center" style="width:33%; padding:10px;">
       <img src="https://github.com/Sayershafi/Sayershafi/blob/main/8.British%20Airways.png?raw=true"
            alt="British Airways Dashboard"
            style="width:95%; max-width:350px; border-radius:8px;" />
       <br><b>British Airways Dashboard</b>
     </td>
+  </tr>
+</table>
+================================
+
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
+  &nbsp;📊 Power BI Dashboards
+</h2>
+
+---
+
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
+           alt="Netflix Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Netflix Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
+           alt="Sales Summary Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Sales Summary Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
+           alt="Sales Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Sales Dashboard</b>
+    </td>
+  </tr>
+
+  <!-- Hospital Dashboard center align -->
+  <tr>
+    <td style="width:33%;"></td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
+           alt="Hospital Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Hospital Dashboard</b>
+    </td>
+    <td style="width:33%;"></td>
+  </tr>
+
+  <tr>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
+           alt="HR Analytics Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>HR Analytics Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
+           alt="Airbnb Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Airbnb Dashboard</b>
+    </td>
+    <td style="width:33%;"></td>
   </tr>
 </table>
 
