@@ -61,12 +61,14 @@ Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help o
   </tr>
 
   <tr>
+    <td style="width:33%;"></td>
     <td align="center" style="width:33%; padding:10px;">
       <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
            alt="Hospital Dashboard"
            style="width:95%; max-width:350px; border-radius:8px;" />
       <br><b>Hospital Dashboard</b>
     </td>
+    <td style="width:33%;"></td>
   </tr>
 </table>
 
