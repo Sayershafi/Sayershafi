@@ -206,30 +206,12 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 
 ---------------------------------- 
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/tableau-software.png" width="26" />
-  &nbsp;Tableau Project
-</h2>
-
----
-<p align="center">
-  <a href="#" target="_blank" title="Airbnb Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="HR Analytics Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.%20HR.png" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="British Airways Dashboard">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/8.British%20Airways.png?raw=true" width="280" />
-  </a>
-</p>
-
-
-<p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
+--------------
 
 --------------
+<p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
+
+
 
 
 ---
