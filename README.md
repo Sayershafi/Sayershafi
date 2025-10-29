@@ -158,7 +158,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </p>
 
 
----------------------------------- Power BI
+---------------------------------- 
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
   &nbsp;Power BI Project
@@ -189,7 +189,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </p>
 
 
----------------------------------- Tableau
+---------------------------------- 
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="26" />
   &nbsp;Tableau Project
