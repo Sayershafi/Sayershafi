@@ -208,10 +208,10 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 ---------------------------------- 
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="26" />
-  &nbsp; Tableau Projects
+  &nbsp;📊 Tableau Projects
 </h2>
 
----
+<hr/>
 
 <table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
