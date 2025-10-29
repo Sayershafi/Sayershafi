@@ -168,36 +168,56 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 ---------------------------------- 
 <h2 align="center">
-  <img src="https://img.icons8.com/color/48/tableau-software.png" width="26" />
-  &nbsp;📊 Tableau Projects
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="24" />
+  &nbsp;Tableau Projects
 </h2>
 
-<hr/>
-
-<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:18px;">
   <tr>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
-           alt="Airbnb Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Airbnb Detailed Analysis</b>
+    <!-- Airbnb -->
+    <td style="width:33%;">
+      <div style="border:1px solid #e5e7eb; border-radius:10px; padding:14px; box-shadow:0 1px 3px rgba(0,0,0,.06);">
+        <a href="#" title="Airbnb Detailed Analysis" target="_blank">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
+               alt="Airbnb Dashboard"
+               style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;" />
+        </a>
+        <div style="margin-top:10px; font-weight:600; font-size:18px;">
+          Airbnb Detailed Analysis
+        </div>
+      </div>
     </td>
 
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
-           alt="HR Analytics Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>HR Analytics Dashboard</b>
+    <!-- HR Analytics -->
+    <td style="width:33%;">
+      <div style="border:1px solid #e5e7eb; border-radius:10px; padding:14px; box-shadow:0 1px 3px rgba(0,0,0,.06);">
+        <a href="#" title="HR Analytics Dashboard" target="_blank">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
+               alt="HR Analytics Dashboard"
+               style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;" />
+        </a>
+        <div style="margin-top:10px; font-weight:600; font-size:18px;">
+          HR Analytics Dashboard
+        </div>
+      </div>
     </td>
 
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/8.British%20Airways.png?raw=true"
-           alt="British Airways Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>British Airways Dashboard</b>
+    <!-- British Airways -->
+    <td style="width:33%;">
+      <div style="border:1px solid #e5e7eb; border-radius:10px; padding:14px; box-shadow:0 1px 3px rgba(0,0,0,.06);">
+        <a href="#" title="British Airways Dashboard" target="_blank">
+          <img src="https://github.com/Sayershafi/Sayershafi/blob/main/8.British%20Airways.png?raw=true"
+               alt="British Airways Dashboard"
+               style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;" />
+        </a>
+        <div style="margin-top:10px; font-weight:600; font-size:18px;">
+          British Airways Dashboard
+        </div>
+      </div>
     </td>
   </tr>
 </table>
+
 ================================
 
 <h2 align="center">
