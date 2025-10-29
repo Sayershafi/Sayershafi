@@ -223,21 +223,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 --------------
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/certificate.png" width="28" />
-  &nbsp;💼 Professional Training
-</h2>
-
----
-
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/certificate.png" width="28" />
-  &nbsp;💼 Professional Training
-</h2>
-
----
-
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/certificate.png" width="28" />
-  &nbsp;💼 Professional Training
+  &nbsp;🎓 Professional Training
 </h2>
 
 ---
@@ -251,21 +237,21 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
     <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true" width="300" />
   </a>
   &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Excel Professional Certificate">
+  <a href="#" target="_blank" title="Data360 Certificate of Achievement">
     <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true" width="300" />
   </a>
 </p>
 
 <p align="center">
-  <a href="#" target="_blank" title="Grad Bunker Certificate">
+  <a href="#" target="_blank" title="Akademy Certificate of Completion">
     <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true" width="300" />
   </a>
   &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Data360 Certificate of Achievement">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Data360.png?raw=true" width="300" />
+  <a href="#" target="_blank" title="Creative IT Institute Certificate">
+    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Creative%20IT%20Institute%20Certificate.png?raw=true" width="300" />
   </a>
   &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Akademy Certificate of Completion">
+  <a href="#" target="_blank" title="Additional Certificate">
     <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Akademy.png?raw=true" width="300" />
   </a>
 </p>
