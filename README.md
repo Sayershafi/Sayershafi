@@ -137,83 +137,35 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 
 ---------------------------------
-<h2 align="center">
-  💼 Professional Training
-</h2>
 
----
-
-<p align="center">
-  <a href="#" target="_blank" title="Tableau Certificate">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Python Certificate">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true" width="280" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="#" target="_blank" title="Excel Certificate">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true" width="280" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="#" target="_blank" title="Grad Bunker Certificate">
-    <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true" width="280" />
-  </a>
-</p>
-
----------------------------------- 
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/certificate.png" width="26" />
-  &nbsp;🎓 Professional Training
-</h2>
-
----
-
-<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<table align="center">
   <tr>
-    <td align="center" style="width:33%; padding:8px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true"
-           alt="Tableau Ultimate Course (Udemy)"
-           style="width:95%; max-width:320px; border-radius:6px;" />
-      <br><b>Tableau Ultimate Course (Udemy)</b>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true" width="300" /><br>
+      <b>Tableau Ultimate Course (Udemy)</b>
     </td>
-    <td align="center" style="width:33%; padding:8px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true"
-           alt="Python ML – Creative IT"
-           style="width:95%; max-width:320px; border-radius:6px;" />
-      <br><b>Python ML – Creative IT</b>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true" width="300" /><br>
+      <b>Python Machine Learning - Creative IT</b>
     </td>
-    <td align="center" style="width:33%; padding:8px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true"
-           alt="Excel Certificate"
-           style="width:95%; max-width:320px; border-radius:6px;" />
-      <br><b>Excel Certificate</b>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true" width="300" /><br>
+      <b>Excel Advanced Certificate</b>
     </td>
   </tr>
 
   <tr>
-    <td align="center" style="width:33%; padding:8px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true"
-           alt="Grad Bunker Certificate"
-           style="width:95%; max-width:320px; border-radius:6px;" />
-      <br><b>Grad Bunker Certificate</b>
     </td>
-    <td align="center" style="width:33%; padding:8px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Data360.png?raw=true"
-           alt="Data360 Certificate"
-           style="width:95%; max-width:320px; border-radius:6px;" />
-      <br><b>Data360 Certificate</b>
+    <td align="center" width="33%">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true" width="300" /><br>
+      <b>Grad Bunker Certificate</b>
     </td>
-    <td align="center" style="width:33%; padding:8px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Akademy.png?raw=true"
-           alt="Akademy Certificate"
-           style="width:95%; max-width:320px; border-radius:6px;" />
-      <br><b>Akademy Certificate</b>
-    </td>
+    
   </tr>
 </table>
+
+---------------------------------- 
+
 
 
 ---------------------------------- 
@@ -249,30 +201,4 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </h2>
 
 ---
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true" width="300" /><br>
-      <b>Tableau Ultimate Course (Udemy)</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true" width="300" /><br>
-      <b>Python Machine Learning - Creative IT</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true" width="300" /><br>
-      <b>Excel Advanced Certificate</b>
-    </td>
-  </tr>
-
-  <tr>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true" width="300" /><br>
-      <b>Grad Bunker Certificate</b>
-    </td>
-    
-  </tr>
-</table>
 
