@@ -208,7 +208,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 ---------------------------------- 
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="26" />
-  &nbsp;📊 Tableau Projects
+  &nbsp; Tableau Projects
 </h2>
 
 ---
@@ -237,6 +237,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
     </td>
   </tr>
 </table>
+
 
 
 <p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
