@@ -167,91 +167,64 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </table>
 
 ---------------------------------- 
-# 📊 Power BI Dashboard Portfolio
-This repository showcases my Power BI projects — built using real-world datasets to demonstrate data cleaning, visualization, and storytelling skills.  
-Each dashboard highlights key metrics, interactivity, and professional UI design for business insights.
+<h2 align="center">
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
+  &nbsp;📊 Power BI Dashboards
+</h2>
 
 ---
 
-## 🚗 Car Sales Dashboard
-![Car Dashboard](3.Car.png)
-**Overview:**  
-This dashboard visualizes car sales performance including price, mileage, MPG, and tax comparison across vehicle types.  
-**Key Insights:**
-- Hybrid models lead in total sales revenue.  
-- Manual transmission vehicles dominate the market share.  
-- Interactive bar and donut charts for transmission and fuel types.
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
+           alt="Netflix Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Netflix Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
+           alt="Sales Summary Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Sales Summary Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
+           alt="Sales Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Sales Dashboard</b>
+    </td>
+  </tr>
 
----
+  <!-- Hospital Dashboard center align -->
+  <tr>
+    <td style="width:33%;"></td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
+           alt="Hospital Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Hospital Dashboard</b>
+    </td>
+    <td style="width:33%;"></td>
+  </tr>
 
-## 💼 Sales Summary Dashboard
-![Sales Summary](2.Sales%20Summary.png)
-**Overview:**  
-Tracks overall sales KPIs with year-wise and case-type breakdowns, built to monitor performance trends.  
-**Key Insights:**
-- Displays comparison between latest month vs previous year.  
-- Highlights key specialties with wait-time and age profiles.  
-- Includes time-band and case-type analytics.
+  <tr>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
+           alt="HR Analytics Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>HR Analytics Dashboard</b>
+    </td>
+    <td align="center" style="width:33%; padding:10px;">
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
+           alt="Airbnb Dashboard"
+           style="width:95%; max-width:350px; border-radius:8px;" />
+      <br><b>Airbnb Dashboard</b>
+    </td>
+    <td style="width:33%;"></td>
+  </tr>
+</table>
 
----
-
-## 🎬 Netflix Analytics Dashboard
-![Netflix Dashboard](1.Netflix.jpg)
-**Overview:**  
-Analyzes Netflix’s global content distribution, genres, and ratings using Power BI visuals.  
-**Key Insights:**
-- TV-MA and TV-14 dominate Netflix’s catalog.  
-- 69% of Netflix’s content consists of movies.  
-- Regional map visualization for country-wise content distribution.
-
----
-
-## 🏥 Hospital Emergency Room Dashboard
-![Hospital Dashboard](5.Hospital.png)
-**Overview:**  
-Consolidated healthcare dashboard tracking ER admissions, patient satisfaction, and referral data.  
-**Key Insights:**
-- Over 9,000 patients tracked with 35M avg wait minutes.  
-- Real-time admission vs non-admission metrics.  
-- Gender, race, and age group insights with KPI cards and filters.
-
----
-
-## 🛒 Retail Sales Performance Dashboard
-![Sales Dashboard](4.Sales.png)
-**Overview:**  
-Retail analytics dashboard for revenue, profit, and order trends across categories and occupations.  
-**Key Insights:**
-- $24.9M total revenue and $10.4M profit.  
-- Professional occupation segment generates the highest profit.  
-- Interactive month-over-month performance comparison.
-
----
-
-## 🧾 Certificates & Professional Training
-![Certificates](81e3d65d-bdd0-4f20-b393-8addbf4ea4d8.png)
-**Certifications:**
-- Tableau Ultimate Course (Udemy)  
-- Python with Machine Learning – Creative IT  
-- Excel Advanced – Data 360  
-- Business Intelligence Bootcamp – Grad Bunker  
-
----
-
-## 🧠 Tools & Skills
-- **Data Visualization:** Power BI, Tableau  
-- **Data Analysis:** Excel, SQL, Python (Pandas, NumPy)  
-- **Design:** DAX, Power Query, Interactive UX Layouts  
-- **Storytelling:** KPI tracking, Drill-through analysis, and data modeling  
-
----
-
-### 📫 Connect With Me
-**Sayer Bin Shafi**  
-🔗 [LinkedIn](https://linkedin.com/in/sayerbinshafi) | 🌐 [Portfolio Website](https://sayerbin.com) | 📧 sayerbinshafi@gmail.com
-
----
-⭐ *If you like my dashboards, consider starring this repo!*
 
 
 
