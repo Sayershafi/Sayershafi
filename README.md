@@ -239,24 +239,21 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </table>
 
 ---------------------
-<h2 align="center">
-  🌐 Connect With Me
-</h2>
-<h2 align="center">
+<<h2 align="center">
   Connect with me 🤝
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/sayershafi" target="_blank">
     <img src="https://img.icons8.com/color/64/linkedin.png" alt="LinkedIn" style="margin: 10px;"/>
   </a>
-  <a href="https://www.facebook.com/your-username" target="_blank">
+  <a href="https://www.facebook.com/sayershafi" target="_blank">
     <img src="https://img.icons8.com/color/64/facebook-new.png" alt="Facebook" style="margin: 10px;"/>
   </a>
-  <a href="https://wa.me/yourNumber" target="_blank">
+  <a href="https://wa.me/19403864534" target="_blank">
     <img src="https://img.icons8.com/color/64/whatsapp--v1.png" alt="WhatsApp" style="margin: 10px;"/>
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://sayerbin.com" target="_blank">
     <img src="https://img.icons8.com/external-prettycons-flat-prettycons/64/external-globe-networking-prettycons-flat-prettycons.png" alt="Website" style="margin: 10px;"/>
   </a>
 </p>
@@ -266,8 +263,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 
 
---------------
-<p align="center">⭐ Thank you for visiting my GitHub. Let’s build insights together!</p>
+<p align="center"> Thank you for visiting my GitHub. Let’s build insights together!</p>
 
 
 
