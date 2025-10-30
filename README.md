@@ -243,6 +243,8 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   🌐 Connect With Me
 </h2>
 
+---
+
 <table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
     <!-- LinkedIn -->
