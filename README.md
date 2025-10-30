@@ -245,38 +245,47 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 ---
 
+<h2 align="center">
+  Connect with me 🤝
+</h2>
+
 <table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <!-- LinkedIn -->
-    <td align="center" style="width:25%; padding:10px;">
-      <a href="https://www.linkedin.com/in/sayershafi/" target="_blank">
-        <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="48"/>
+    <td align="center" style="width:16.6%; padding:14px; border:1px solid #eee; border-radius:10px;">
+      <a href="https://www.linkedin.com/in/your-username" target="_blank">
+        <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="48"/>
+        <br><b>LinkedIn</b>
       </a>
-      <br><b>LinkedIn</b>
     </td>
-
-    <!-- Facebook -->
-    <td align="center" style="width:25%; padding:10px;">
-      <a href="https://www.facebook.com/SayerBinShafi" target="_blank">
-        <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook" width="48"/>
+    <td align="center" style="width:16.6%; padding:14px; border:1px solid #eee; border-radius:10px;">
+      <a href="https://www.facebook.com/your-username" target="_blank">
+        <img src="https://img.icons8.com/color/96/facebook-new.png" alt="Facebook" width="48"/>
+        <br><b>Facebook</b>
       </a>
-      <br><b>Facebook</b>
     </td>
-
-    <!-- Website -->
-    <td align="center" style="width:25%; padding:10px;">
-      <a href="https://sayerbin.com/" target="_blank">
-        <img src="https://img.icons8.com/color/48/domain.png" alt="Website" width="48"/>
+    <td align="center" style="width:16.6%; padding:14px; border:1px solid #eee; border-radius:10px;">
+      <a href="https://wa.me/yourNumber" target="_blank">
+        <img src="https://img.icons8.com/color/96/whatsapp--v1.png" alt="WhatsApp" width="48"/>
+        <br><b>WhatsApp</b>
       </a>
-      <br><b>Website</b>
     </td>
-
-    <!-- WhatsApp -->
-    <td align="center" style="width:25%; padding:10px;">
-      <a href="https://wa.me/17165932924" target="_blank">
-        <img src="https://img.icons8.com/color/48/whatsapp.png" alt="WhatsApp" width="48"/>
+    <td align="center" style="width:16.6%; padding:14px; border:1px solid #eee; border-radius:10px;">
+      <a href="https://www.kaggle.com/your-username" target="_blank">
+        <img src="https://img.icons8.com/color/96/kaggle.png" alt="Kaggle" width="48"/>
+        <br><b>Kaggle</b>
       </a>
-      <br><b>WhatsApp</b>
+    </td>
+    <td align="center" style="width:16.6%; padding:14px; border:1px solid #eee; border-radius:10px;">
+      <a href="https://www.hackerrank.com/your-username" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="HackerRank" width="48"/>
+        <br><b>HackerRank</b>
+      </a>
+    </td>
+    <td align="center" style="width:16.6%; padding:14px; border:1px solid #eee; border-radius:10px;">
+      <a href="https://www.reddit.com/user/your-username" target="_blank">
+        <img src="https://img.icons8.com/color/96/reddit.png" alt="Reddit" width="48"/>
+        <br><b>Reddit</b>
+      </a>
     </td>
   </tr>
 </table>
