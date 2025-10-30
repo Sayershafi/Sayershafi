@@ -211,7 +211,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
-  &nbsp;📊 Power BI Dashboards
+  &nbsp; Power BI Dashboards
 </h2>
 
 ---
