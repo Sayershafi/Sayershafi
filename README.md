@@ -266,7 +266,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
       <br><b>Airbnb Dashboard</b>
     </td>
     <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.HR.png?raw=true"
+      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.%20HR.png"
            alt="HR Analytics Dashboard"
            style="width:95%; max-width:350px; border-radius:8px;" />
       <br><b>HR Analytics Dashboard</b>
