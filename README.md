@@ -166,55 +166,13 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
   </tr>
 </table>
 
----------------------------------- 
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
-  &nbsp; Power BI Dashboards
-</h2>
-
----
-
-<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <tr>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
-           alt="Netflix Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Netflix Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
-           alt="Sales Summary Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Sales Summary Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
-           alt="Sales Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Sales Dashboard</b>
-    </td>
-  </tr>
-
-  <!-- Hospital Dashboard center align -->
-  <tr>
-    <td style="width:33%;"></td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
-           alt="Hospital Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Hospital Dashboard</b>
-    </td>
-    <td style="width:33%;"></td>
-  </tr>
-</table>
+-----------------------------------------------------
 
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
   &nbsp; Power BI Dashboards
 </h2>
 
----
 
 <table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
@@ -249,7 +207,7 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 </table>
 
 
-## Tableua
+
 <h2 align="center">
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="26" />
   &nbsp; Tableau Projects
