@@ -242,35 +242,25 @@ I enjoy blending analytical thinking with creativity to build dashboards, track 
 <h2 align="center">
   🌐 Connect With Me
 </h2>
+<h2 align="center">
+  Connect with me 🤝
+</h2>
 
-<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <tr>
-    <td align="center" style="width:25%; padding:14px; border:1px solid #eee; border-radius:10px;">
-      <a href="https://www.linkedin.com/in/your-username" target="_blank">
-        <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="48"/>
-        <br><b>LinkedIn</b>
-      </a>
-    </td>
-    <td align="center" style="width:25%; padding:14px; border:1px solid #eee; border-radius:10px;">
-      <a href="https://www.facebook.com/your-username" target="_blank">
-        <img src="https://img.icons8.com/color/96/facebook-new.png" alt="Facebook" width="48"/>
-        <br><b>Facebook</b>
-      </a>
-    </td>
-    <td align="center" style="width:25%; padding:14px; border:1px solid #eee; border-radius:10px;">
-      <a href="https://wa.me/yourNumber" target="_blank">
-        <img src="https://img.icons8.com/color/96/whatsapp--v1.png" alt="WhatsApp" width="48"/>
-        <br><b>WhatsApp</b>
-      </a>
-    </td>
-    <td align="center" style="width:25%; padding:14px; border:1px solid #eee; border-radius:10px;">
-      <a href="https://yourwebsite.com" target="_blank">
-        <img src="https://img.icons8.com/color/96/domain.png" alt="Website" width="48"/>
-        <br><b>Website</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.icons8.com/color/64/linkedin.png" alt="LinkedIn" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.facebook.com/your-username" target="_blank">
+    <img src="https://img.icons8.com/color/64/facebook-new.png" alt="Facebook" style="margin: 10px;"/>
+  </a>
+  <a href="https://wa.me/yourNumber" target="_blank">
+    <img src="https://img.icons8.com/color/64/whatsapp--v1.png" alt="WhatsApp" style="margin: 10px;"/>
+  </a>
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.icons8.com/external-prettycons-flat-prettycons/64/external-globe-networking-prettycons-flat-prettycons.png" alt="Website" style="margin: 10px;"/>
+  </a>
+</p>
+
 
 
 
