@@ -1,244 +1,186 @@
-<p align="center">
-  <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Sayer%20Shaf.png?raw=true" width="100%" />
-</p>
-
-<h3 align="center">Hello I Am,</h3>
-
-<p align="center">
-  <img src="https://github.com/Sayershafi/Sayershafi/blob/main/profile-pic%20(1).png" width="220" style="border-radius:50%;">
-</p>
-
-<h1 align="center">
-  <b>SAYER BIN SHAFI</b>
-</h1>
-<p align="center">
-  <b>Marketing Analyst | Data Analyst</b>
-</p>
-
-<p align="center" style="max-width: 700px; margin:auto;">
-A passionate Data & Marketing analyst who loves turning data into insights that drive smarter business decisions. 
-Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help organizations make sense of data through clear analysis and impactful visualization.
-</p>
-
-<p align="center">
-  <a href="https://sayerbin.com" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://sayerbin.com/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20CV-8A2BE2?style=for-the-badge&logo=readme&logoColor=white" />
-  </a>
-</p>
-
--------------------------------
-<h2 align="center" style="font-family:'Segoe UI',sans-serif; color:#6A5ACD;">
- About Me
-</h2>
-
-<p style="text-align: justify; font-family:'Segoe UI',sans-serif; font-size:16px; max-width:800px; margin:auto; line-height:1.6;">
-Hello! 👋 I’m <b style="color:#6A5ACD;">Sayer Bin Shafi</b>, currently pursuing my <b>Master’s in Business Analytics</b> at <b>Midwestern State University, USA</b>.  
-I’m deeply passionate about <b>turning raw data into meaningful insights</b> that drive <b>better business decisions</b>.
-</p>
-
-<p style="text-align: justify; font-family:'Segoe UI',sans-serif; font-size:16px; max-width:800px; margin:auto; line-height:1.6;">
-I work across <b>data collection</b>, <b>cleaning</b>, <b>visualization</b>, and <b>storytelling</b> to answer real business questions clearly and confidently.  
-I enjoy blending analytical thinking with creativity to build dashboards, track performance, and reveal trends that guide business growth.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sayershafi/" target="_blank">
-    <img src="https://img.shields.io/badge/💼 Connect%20on%20LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----------------------------------------------
-
-<h2 align="center"> Skills & Tools </h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" width="50" height="50"><br>
-      <b>Excel</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/power-bi.png" width="50" height="50"><br>
-      <b>Power BI</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/fluency/96/sql.png" width="50" height="50"><br>
-      <b>SQL</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/python--v1.png" width="50" height="50"><br>
-      <b>Python</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/tableau-software.png" width="50" height="50"><br>
-      <b>Tableau</b>
-    </td>
-    <td align="center" width="130">
-      <img src="https://img.icons8.com/color/96/google-data-studio.png" width="50" height="50"><br>
-      <b>Looker Studio</b>
-    </td>
-  </tr>
-</table>
-
-
-
 <div align="center">
-
-<table style="width:90%; border-collapse:collapse; table-layout:fixed; font-family:'Segoe UI',sans-serif;">
-  <thead>
-    <tr>
-      <th style="width:25%; text-align:left; padding:6px;">Category</th>
-      <th style="width:75%; text-align:left; padding:6px;">Technologies</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding:6px;"><b>Language</b></td>
-      <td style="padding:6px;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:6px;"><b>Data Visualization</b></td>
-      <td style="padding:6px;">
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
-        <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000" />
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
-        <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:6px;"><b>Data Handling</b></td>
-      <td style="padding:6px;">
-        <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td style="padding:6px;"><b>Database</b></td>
-      <td style="padding:6px;">
-        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
+  <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Sayer%20Shaf.png" width="100%" alt="Banner"/>
 </div>
-
-
----------------------------------
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/certificate.png" width="28" />
-   Professional Training
-</h2>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Tableau.jpg?raw=true" width="300" /><br>
-      <b>Tableau Ultimate Course (Udemy)</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Python.jpeg?raw=true" width="300" /><br>
-      <b>Python Machine Learning - Creative IT</b>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Excel%20Certificate.png?raw=true" width="300" /><br>
-      <b>Excel Advanced Certificate</b>
-    </td>
-  </tr>
-
-  <tr>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/Grad%20Bunker.jpeg?raw=true" width="300" /><br>
-      <b>Grad Bunker Certificate</b>
-    </td>
-    
-  </tr>
-</table>
-
------------------------------------------------------
-
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/power-bi.png" width="26" />
-  &nbsp; Power BI Project
-</h2>
-
-
-<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <tr>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/1.Netflix.jpg?raw=true"
-           alt="Netflix Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Netflix Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/2.Sales%20Summary.png?raw=true"
-           alt="Sales Summary Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Sales Summary Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/4.Sales.png?raw=true"
-           alt="Sales Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Sales Dashboard</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/5.Hospital.png?raw=true"
-           alt="Hospital Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Hospital Dashboard</b>
-  
-  </tr>
-</table>
-
-
-
-<h2 align="center">
-  <img src="https://img.icons8.com/color/48/tableau-software.png" width="26" />
-  &nbsp; Tableau Projects
-</h2>
 
 ---
 
-<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <tr>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/7.Airbnb.png?raw=true"
-           alt="Airbnb Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>Airbnb Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/6.%20HR.png"
-           alt="HR Analytics Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>HR Analytics Dashboard</b>
-    </td>
-    <td align="center" style="width:33%; padding:10px;">
-      <img src="https://github.com/Sayershafi/Sayershafi/blob/main/8.British%20Airways.png?raw=true"
-           alt="British Airways Dashboard"
-           style="width:95%; max-width:350px; border-radius:8px;" />
-      <br><b>British Airways Dashboard</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github.com/Sayershafi/Sayershafi/raw/main/profile-pic%20(1).png" width="140px"/>
+</div>
 
----------------------
-<p align="center"> Thank you for visiting my GitHub. Let’s build insights together!</p>
+<h1 align="center">SAYER BIN SHAFI</h1>
+<h3 align="center">Data Analyst &nbsp;·&nbsp; Marketing Analyst</h3>
 
+<p align="center">
+  A passionate Data & Marketing Analyst who loves turning raw data into insights that drive smarter business decisions.<br/>
+  Skilled in SQL, Python, Tableau, Power BI, Looker Studio, and Excel — I help organizations make sense of data<br/>
+  through clear analysis and impactful visualization.
+</p>
 
+<p align="center">
+  <a href="https://sayerbin.com"><img src="https://img.shields.io/badge/🌐_View_Portfolio-6A5ACD?style=for-the-badge"/></a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1qEllOnTGuqWmTI7723lSBKW0lbM6AkLh/view?usp=sharing"><img src="https://img.shields.io/badge/📄_Download_CV-8A2BE2?style=for-the-badge"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sayershafi/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+## 👋 About Me
+
+Hello! I'm **Sayer Bin Shafi**, currently pursuing my **MBA in Business Analytics** at **Midwestern State University, Wichita Falls, TX** *(May 2026)*.
+
+I'm deeply passionate about **turning raw data into meaningful insights** that drive **better business decisions**. I work across **data collection**, **cleaning**, **visualization**, and **storytelling** to answer real business questions clearly and confidently.
+
+- 🎓 **MBA Business Analytics** — Midwestern State University, TX *(2026)*
+- 🎓 **BBA Accounting** — East West University, Bangladesh *(2022)*
+- 💼 **Graduate Assistant** — MSU Wichita Falls *(Jan 2026 – Present)*
+- 💼 **Data Analyst** — Mindbencher *(Mar 2022 – Jun 2024)*
+- 📍 Irving, TX 75038 &nbsp;·&nbsp; 📞 +1 (940) 386-4534
+- 🟢 **Open to new projects & full-time opportunities**
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+| 📁 Projects | 📄 Publications | 💬 Citations | ⭐ Reads | 🏅 IEEE Papers | 🗓️ Experience |
+|:-----------:|:---------------:|:------------:|:-------:|:-------------:|:-------------:|
+| **17+** | **10** | **123+** | **440+** | **4** | **3+ Years** |
+
+</div>
+
+---
+
+## 🛠️ Skills & Tools
+
+<div align="center">
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Power BI Projects
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Sayershafi/Sayershafi/raw/main/4.Sales.png" width="280"/><br/><b>Interactive Sales Report</b><br/>![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-5b21b6?style=flat-square) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/2.Sales%20Summary.png" width="280"/><br/><b>Sales Summary Dashboard</b><br/>![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/3.Car.png" width="280"/><br/><b>Car Sales Analysis</b><br/>![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| <img src="https://github.com/Sayershafi/Sayershafi/raw/main/5.Hospital.png" width="280"/><br/><b>Healthcare Analysis</b><br/>![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/1.Netflix.jpg" width="280"/><br/><b>Netflix Dashboard</b><br/>![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | |
+
+</div>
+
+---
+
+## 📈 Tableau Projects
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Sayershafi/Sayershafi/raw/main/6.%20HR.png" width="280"/><br/><b>HR Analytics Dashboard</b><br/>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/8.British%20Airways.png" width="280"/><br/><b>British Airways Reviews</b><br/>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/7.Airbnb.png" width="280"/><br/><b>Airbnb Booking Analysis</b><br/>![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+
+</div>
+
+---
+
+## 🐍 Python Projects
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Consumer_Feedback.png" width="280"/><br/><b>Consumer Feedback Analysis</b><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Sayershafi/Consumer-Feedback-Analysis) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Business_Prediction.png" width="280"/><br/><b>Business Failure Prediction</b><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square) [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Sayershafi/Business-Failure-Prediction-Analysis) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Ewaste_Analysis.png" width="280"/><br/><b>E-Waste Recycling Impact</b><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Sayershafi) |
+
+</div>
+
+---
+
+## 🗄️ SQL Projects
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Amazon_Sql_1.png" width="280"/><br/><b>Amazon Sales Data Analysis</b><br/>![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Sayershafi/SQL-Retail-Sales-Analysis) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Cohort_Analysis.png" width="280"/><br/><b>Customer Cohort Analysis</b><br/>![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Sayershafi) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Fraud_Detection_Analysis.png" width="280"/><br/><b>Fraud Detection Analysis</b><br/>![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Sayershafi) |
+
+</div>
+
+---
+
+## 📋 Excel Projects
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Social_Media_Analytics.jpg" width="280"/><br/><b>Social Media Analytics Dashboard</b><br/>![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-5b21b6?style=flat-square) [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Sayershafi) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Personal-Budget-Dahboard.jpg" width="280"/><br/><b>Personal Budget Dashboard</b><br/>![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-5b21b6?style=flat-square) [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Sayershafi) | <img src="https://github.com/Sayershafi/Sayershafi/raw/main/Marketing_Campaign.jpg" width="280"/><br/><b>Marketing Campaign Analysis</b><br/>![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) [![Repo](https://img.shields.io/badge/GitHub-View-181717?style=flat-square&logo=github)](https://github.com/Sayershafi/Marketing-Campaign-Analysis) |
+
+</div>
+
+---
+
+## 📄 Research & Publications
+
+> 🏅 **10 Publications &nbsp;·&nbsp; 4 IEEE Papers &nbsp;·&nbsp; 123+ Citations &nbsp;·&nbsp; 440+ Reads**
+
+| # | Title | Venue | Year |
+|---|-------|-------|------|
+| 1 | **Consumer Feedback Analysis and Economic Impact: A Data-Driven Study** | 🏅 IEEE | 2024 |
+| 2 | **E-Waste Recycling Economic and Environmental Impact Analysis Using Python** | 🏅 IEEE | 2024 |
+| 3 | **Business Failure Prediction and Survival Analysis** | 🏅 IEEE | 2023 |
+| 4 | **Customer Cohort Analysis and Retention Optimization** | 🏅 IEEE | 2023 |
+| 5 | **Fraud Detection Analysis: SQL-Based Financial Crime Insights** | Journal | 2023 |
+| 6 | **Amazon Sales Data Analysis and Product Performance Study** | Journal | 2023 |
+| 7 | **HR Analytics: Employee Retention and Performance Metrics** | Journal | 2022 |
+| 8 | **Airbnb Market Analysis: Booking Patterns and Revenue Drivers** | Journal | 2022 |
+| 9 | **Netflix Content Strategy: A Data-Driven Analysis** | Journal | 2022 |
+| 10 | **Healthcare Emergency Room Analytics and Patient Flow Optimization** | Journal | 2022 |
+
+---
+
+## 🤝 What Clients Say
+
+> *"Sayer handled our entire analytics process — from cleaning and structuring data in SQL to building dynamic dashboards in Power BI. His work helped us identify key growth drivers and simplify weekly reporting. An exceptional analyst."*
+>
+> ⭐⭐⭐⭐⭐ &nbsp;— **Md Tarikuzzaman, CEO · Rentyard**
+
+---
+
+> *"Working with Sayer was an excellent experience. His ability to translate complex data into actionable insights helped us make smarter marketing decisions and boost our ROI significantly."*
+>
+> ⭐⭐⭐⭐⭐ &nbsp;— **Rafat Istiaque, Marketing Director · RebinTech USA**
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_sayerbin.com-5b21b6?style=for-the-badge)](https://sayerbin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayershafi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sayershafi)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sayershafi@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sayershafi)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Thank you for visiting my GitHub! Let's build insights together. 🚀</i><br/><br/>
+  <b>Copyright © 2026 Sayer Bin Shafi · All Rights Reserved</b>
+</div>
