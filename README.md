@@ -42,7 +42,7 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 📊 Stats
+##  Stats
 
 <div align="center">
 
