@@ -54,7 +54,7 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 <div align="center">
 
@@ -72,7 +72,7 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 📊 Power BI Projects
+##  Power BI Projects
 
 <div align="center">
 
@@ -85,7 +85,7 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 📈 Tableau Projects
+##  Tableau Projects
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 🐍 Python Projects
+##  Python Projects
 
 <div align="center">
 
@@ -109,7 +109,7 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 🗄️ SQL Projects
+##  SQL Projects
 
 <div align="center">
 
@@ -121,7 +121,7 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 📋 Excel Projects
+##  Excel Projects
 
 <div align="center">
 
@@ -133,9 +133,9 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 📄 Research & Publications
+##  Research & Publications
 
-> 🏅 **10 Publications &nbsp;·&nbsp; 4 IEEE Papers &nbsp;·&nbsp; 123+ Citations &nbsp;·&nbsp; 440+ Reads**
+>  **10 Publications &nbsp;·&nbsp; 4 IEEE Papers &nbsp;·&nbsp; 123+ Citations &nbsp;·&nbsp; 440+ Reads**
 
 | # | Title | Venue | Year |
 |---|-------|-------|------|
@@ -152,7 +152,7 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 🤝 What Clients Say
+##  What Clients Say
 
 > *"Sayer handled our entire analytics process — from cleaning and structuring data in SQL to building dynamic dashboards in Power BI. His work helped us identify key growth drivers and simplify weekly reporting. An exceptional analyst."*
 >
@@ -166,7 +166,7 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
