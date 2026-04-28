@@ -46,9 +46,9 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 
 <div align="center">
 
-| 📁 Projects | 📄 Publications | 💬 Citations | ⭐ Reads | 🏅 IEEE Papers | 🗓️ Experience |
+|  Projects |  Publications |  Citations |  Reads |  IEEE Papers |  Experience |
 |:-----------:|:---------------:|:------------:|:-------:|:-------------:|:-------------:|
-| **17+** | **10** | **123+** | **440+** | **4** | **3+ Years** |
+| **17+** | **10** | **123+** | **1100+** | **4** | **3+ Years** |
 
 </div>
 
