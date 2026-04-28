@@ -181,6 +181,6 @@ I'm deeply passionate about **turning raw data into meaningful insights** that d
 ---
 
 <div align="center">
-  <i>Thank you for visiting my GitHub! Let's build insights together. 🚀</i><br/><br/>
+  <i>Thank you for visiting my GitHub! Let's build insights together. </i><br/><br/>
   <b>Copyright © 2026 Sayer Bin Shafi · All Rights Reserved</b>
 </div>
